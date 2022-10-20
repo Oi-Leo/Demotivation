@@ -10,5 +10,29 @@
     <string name="phrases_motivation">Frases de motivação</string>
     <string name="phrases_morning">Frases para manhã</string>
 
+    <string-array name="phrases_sunny">
+
+        <item> Você é realmente um fracassado </item>
+        <item> Ela te deixou porque você é um lixo </item>
+        <item> Não há mal que derrube quem nasceu pra ficar no chão </item>
+        <item> Pare de achar que ninguém gosta de você, comece a ter certeza </item>
+        <item> Você é mais fraco do que parece </item>
+        <item> Uma grande jornada termina com uma bela derrota </item>
+
+    </string-array>
+
+    <string-array name="phrases_happy">
+
+        <item> Ta no inferno ? abraça o capeta </item>
+        <item> A vida é muita curta e logo você vai morrer </item>
+        <item> Nenhum obstáculo é grande para quem desiste </item>
+        <item> Lute como nunca Perca como sempre </item>
+        <item> Não deixe uma frase motivacional melhorar o seu dia </item>
+        <item> Você não é importante, DESISTA </item>
+
+    </string-array>
+
+
+
     <string name="validation_mandatory_name">Informe seu nome.</string>
 </resources>

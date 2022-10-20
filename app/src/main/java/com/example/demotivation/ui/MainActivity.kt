@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     private fun handleNetxPhrase() {
-        binding.textPhrase.text = Mock().getPhrase(categoryId)
+        binding.textPhrase.text = Mock(this).getPhrase(categoryId)
     }
 
     private fun handleFilter(id: Int) {
